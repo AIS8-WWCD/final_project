@@ -6,6 +6,7 @@ import streamlit as st
 import koreanize_matplotlib
 
 # 데이터 불러오기
+<<<<<<< HEAD
 # a = pd.read_csv('streamlit\heal_boost_data.csv')
 # b = pd.read_csv('streamlit\heal.csv')
 # c = pd.read_csv('streamlit\Throwable_data.csv')
@@ -16,6 +17,12 @@ DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
 @st.cache
 def load_data(nrows):
     data = pd.read_csv(DATA_URL, nrows=nrows)
+=======
+a = pd.read_csv('final_project\streamlit\heal_boost_data.csv')
+b = pd.read_csv('final_project\streamlit\heal.csv')
+c = pd.read_csv('final_project\streamlit\Throwable_data.csv')
+# C:\Users\rlarj\OneDrive\문서\GitHub\final_project\streamlit\heal_boost_data.csv
+>>>>>>> d18f0fc8ceae80f18f67728776b46a522d6af14d
 # match_id 컬럼 제거
 a = a.drop("match_id", axis=1)
 b = b.drop("match_id", axis=1)
