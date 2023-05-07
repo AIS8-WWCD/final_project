@@ -6,10 +6,16 @@ import streamlit as st
 import koreanize_matplotlib
 
 # 데이터 불러오기
-a = pd.read_csv('streamlit\heal_boost_data.csv')
-b = pd.read_csv('streamlit\heal.csv')
-c = pd.read_csv('streamlit\Throwable_data.csv')
-# C:\Users\rlarj\OneDrive\문서\GitHub\final_project\streamlit\heal_boost_data.csv
+# a = pd.read_csv('streamlit\heal_boost_data.csv')
+# b = pd.read_csv('streamlit\heal.csv')
+# c = pd.read_csv('streamlit\Throwable_data.csv')
+DATE_COLUMN = 'date/time'
+DATA_URL = ('https://s3-us-west-2.amazonaws.com/'
+              'streamlit-demo-data/uber-raw-data-sep14.csv.gz')
+	
+@st.cache
+def load_data(nrows):
+    data = pd.read_csv(DATA_URL, nrows=nrows)
 # match_id 컬럼 제거
 a = a.drop("match_id", axis=1)
 b = b.drop("match_id", axis=1)
