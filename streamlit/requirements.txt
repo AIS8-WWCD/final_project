@@ -1,8 +1,0 @@
-pandas
-numpy
-streamlit
-finance-datareader
-plotly
-seaborn
-matplotlib
-koreanize-matplotlib
