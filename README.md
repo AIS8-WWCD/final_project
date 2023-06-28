@@ -11,7 +11,7 @@
   
     →  **“데이터만으로 알 수 없는 변수가 많다는 것”** 을 증명 vs **“분석한 방향대로 간다.”** 확인하기
 * 핵심 장표
-  [image](https://github.com/AIS8-WWCD/final_project/assets/124236172/d177b8e5-ccb2-4323-b273-d101e7944a29)
+  (https://github.com/AIS8-WWCD/final_project/assets/124236172/d177b8e5-ccb2-4323-b273-d101e7944a29)
 
 
 # Team
