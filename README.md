@@ -11,17 +11,19 @@
   
     →  **“데이터만으로 알 수 없는 변수가 많다는 것”** 을 증명 vs **“분석한 방향대로 간다.”** 확인하기
 * 핵심 장표
-  https://file.notion.so/f/s/f1906231-c7c8-4826-968c-75feef488d1d/Untitled.png?id=4be977dd-4f6d-4acb-9816-55cff0095b5b&table=block&spaceId=3c3cf4e2-30db-4ec6-b6aa-40222c62c070&expirationTimestamp=1688016824496&signature=Q0CW1l0U0P7TPlgNdWBTv5uv3HZlFGRg-9YB_3B4jP0&downloadName=Untitled.png![image](https://github.com/AIS8-WWCD/final_project/assets/124236172/d177b8e5-ccb2-4323-b273-d101e7944a29)
+  [image](https://github.com/AIS8-WWCD/final_project/assets/124236172/d177b8e5-ccb2-4323-b273-d101e7944a29)
 
 
 # Team
 ### 팀명
 **WWCD**
 ### 팀원 
-1. 김 건 https://github.com/bark20
-2. 김미리 https://github.com/MilKim0818
-3. 용민규 https://github.com/dydrb
-4. 이호연 https://github.com/tjmoh23 
+| 유저 | 역할 |
+| --- | --- |
+| 김건 | 게임 룰&무기 고문, 데이터 수집, 전처리, EDA, 분석 보고서, 스트림릿 |
+| 김미리 | 팀장, 일정 관리, 회의록 작성, 데이터 수집, 전처리, EDA, 분석 보고서, 머신러닝 |
+| 용민규 | 게임 로그 점검 고문, 데이터 수집, 전처리, EDA, 분석 보고서, 머신러닝 |
+| 이호연 | 발표, 참고자료 서칭, 데이터 수집, 전처리, EDA, 분석 보고서, 스트림릿 |
 
 # Reference
 1. [PUBG Developer Portal Open API](https://developer.pubg.com/)
