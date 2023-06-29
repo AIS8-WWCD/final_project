@@ -3,6 +3,7 @@
 * 프로젝트 기간
   * Kick-Off : 2023.04.18
   * 2023.04.27 - 2023.05.09 (약 2주)
+  * 
 * 프로젝트 주제 : 배틀그라운드 프로 선수 경기 로그 데이터 분석 및 2023 PGS1 우승팀 예측 모델링  
 
   1-1) 그룹 스테이지 만의 데이터로 우승권 예측해보기  
@@ -12,7 +13,10 @@
   1-3) 프로젝트에서 예측한 우승권과 실제 우승권을 비교  
   
     →  **“데이터만으로 알 수 없는 변수가 많다는 것”** 을 증명 vs **“분석한 방향대로 간다.”** 확인하기
+  
 * 핵심 장표
+  ![image](https://github.com/AIS8-WWCD/final_project/assets/124236172/5215c40f-33d6-41b2-b839-cba2e0febcdc)
+  ![image](https://github.com/AIS8-WWCD/final_project/assets/124236172/f96b1bc8-4bc1-4733-bf78-302c16ed9979)
   ![image](https://github.com/AIS8-WWCD/final_project/assets/124236172/d177b8e5-ccb2-4323-b273-d101e7944a29)
   ![image](https://github.com/AIS8-WWCD/final_project/assets/124236172/020f8504-1ff7-4749-9204-5d166a3d3802)
   ![image](https://github.com/AIS8-WWCD/final_project/assets/124236172/92da9251-6ce5-4deb-8cfc-b181ee201ee2)
